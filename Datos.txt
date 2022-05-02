@@ -1,0 +1,4 @@
+{"nombre":"juan ","telefono":"5620248313","correo":"juan@gmail.com","profesion":"estudiante"}
+{"nombre":"dulce","telefono":"552140","correo":"d@gmail.com","profesion":"estudiante"}
+{"nombre":"","telefono":"","correo":"","profesion":""}
+{"nombre":"","telefono":"","correo":"","profesion":""}
